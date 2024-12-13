@@ -1,0 +1,14 @@
+Contribution Statement - Stella Bakac
+
+For this project, the initial plan was to complete it collaboratively with my group. However, due to unforeseen circumstances, I had to complete the majority of the work on my own to ensure the project was finalized on time.
+
+Here’s a breakdown of my contributions:
+
+Gameplay mechanics and scripting: I implemented the main gameplay features, including player movement, collision handling, and interaction with objects (keys and rocks). I wrote and debugged the scripts for the bike controller, collision handling, and UI management.
+UI Development: I designed and created the main menu, buttons, and game UI, ensuring it adhered to the project requirements and was functional.
+Audio Implementation: I added background music and sound effects for object interactions to enhance the game’s atmosphere.
+Assets and Scene Design: I imported assets, added colliders for objects, and configured the environment to ensure it was both visually engaging and functional for the gameplay experience.
+Problem-solving and debugging: I spent considerable time addressing technical issues, such as rigidbody errors and collider setup, to make the game playable.
+While this project was initially a group effort, I took the lead and ensured all required components were implemented. Any group members not featured in the demo video were not actively involved in the project’s completion.
+
+This project reflects my best effort under challenging circumstances, and I hope it meets the expectations of the course

@@ -1,0 +1,17 @@
+Sources for Bike Dash Game:
+
+1. **Models**:
+   - Fir Tree Model: Unity Asset Store (https://assetstore.unity.com/)
+   - Rocks and Keys Models: Unity Asset Store (https://assetstore.unity.com/)
+
+2. **Audio**:
+   - Background Music: Epic Adventure Orchestral Music Pack (Unity Asset Store)
+   - Key Collection Sound: Casual SoundFX Pack (Unity Asset Store)
+
+3. **Tutorial References**:
+   - Unity Documentation for UI: https://docs.unity3d.com/Manual/UIBasicLayout.html
+   - Movement and Rigidbody Tutorial: https://www.youtube.com/UnityMovementBasics
+
+4. **Acknowledgments**:
+   - Help from [Your Name] for debugging and scripting assistance.
+   - Inspiration from Unity community forums (https://forum.unity.com/)
